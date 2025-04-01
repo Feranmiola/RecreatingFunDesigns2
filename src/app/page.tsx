@@ -31,6 +31,7 @@ export default function Home() {
               </div>
             </div>
           </div>
+
           <div className="flex flex-col space-y-16  items-center justify-between">
             <div className="ringImage">
               <Ring />

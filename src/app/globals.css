@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 @import "tailwindcss";
 
 :root {
@@ -30,4 +31,9 @@ body {
 
 .ringImage{
   animation: spin 6s linear infinite;
+}
+
+
+font-poppins {
+  font-family: 'Poppins', sans-serif;
 }

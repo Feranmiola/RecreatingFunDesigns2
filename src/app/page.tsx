@@ -26,7 +26,7 @@ export default function Home() {
                 adipiscing elit. Faucibus in libero risus
               </p>
 
-              <div className="flex items-center justify-center cursor-pointer px-5 py-2 w-max bg-black text-white rounded-[24px] text-base border border-transparent hover:bg-white hover:scale-110 hover:border-black hover:text-black transition ease-in-out">
+              <div className="flex items-center justify-center font-poppins cursor-pointer px-5 py-2 w-max bg-black text-white rounded-[24px] text-base border border-transparent hover:bg-white hover:scale-110 hover:border-black hover:text-black transition ease-in-out">
                 Explore
               </div>
             </div>
